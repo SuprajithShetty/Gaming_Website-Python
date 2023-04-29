@@ -1,0 +1,19 @@
+.product .main .container .row img{
+    max-width: 540px;
+    max-height: 450px;
+    width: fit-content;
+}
+
+.product .main .container .row .content{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+}
+
+.product .main .container .row .information{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+}
